@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Instrumentation and Deviation from Baseline
+level: 1.56
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  All key elements need to be instrumented to permit location of the exact sources of deviations in behavior. The instruments must significantly exceed the test articles in precision and reliability.

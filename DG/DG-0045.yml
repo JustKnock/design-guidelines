@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Early System Design for Monitoring, Testing, and Repair
+level: 1.45
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  A system typically needs to be designed to provide access for monitoring, testing, and repair requirements that are frequently not ovbious at the outset, but nevertheless must be addressed early in the development process.

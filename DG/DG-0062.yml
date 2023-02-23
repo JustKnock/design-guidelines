@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Center of Pressure and Vehicle Dynamics at Velocity
+level: 1.62
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Center of pressure for a vehicle tends to move forward at high velocities.

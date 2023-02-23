@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Fatigue Life and Temperature
+level: 1.33
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Fatigue life predictions can be complicated at temperatures significantly below or above room temperatures

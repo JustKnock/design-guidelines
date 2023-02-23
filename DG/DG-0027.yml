@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  O-ring stretch and Sealing Cabability
+level: 1.27
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  A stretch greater than 5% on the O-ring I.D. is not recommended because it can lead to a loss of seal compression due to reduced cross-section.

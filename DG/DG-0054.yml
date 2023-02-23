@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Priority, Modeling Systems and Design of Systems
+level: 1.54
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  A lesson to be learned is that the effort required to model the environment of a system for the purpose of system T&E needs to be considered at the same level of priority as the design of the system itself and may even require a separate design effort comparable with the associated system design activity.

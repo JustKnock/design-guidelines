@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Miscalculations and Assumptions, Scope
+level: 1.41
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Many systems have failed due to miscalculations and assumptions about what is internal and what is external. Moreover, different organizations tend to define boundaries differently, even with similar systems.

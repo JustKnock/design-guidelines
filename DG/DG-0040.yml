@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Agricultural Equipment and Operating Speed
+level: '1.40'
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Agricultural equipment typically operates at 540 RPM.

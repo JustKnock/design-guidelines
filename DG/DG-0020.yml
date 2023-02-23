@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Ductile materials and Distortion-Energy Theory
+level: '1.20'
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  For ductile behavior the preferred criterion is the distortion-energy theory

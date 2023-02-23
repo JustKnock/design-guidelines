@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Low Fatigue Failure
+level: 1.32
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Fatigue failure w/ N<1000 is called low cycle fatigue

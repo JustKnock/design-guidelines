@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Early Identification of Significant Interactions and Modularity
+level: 1.51
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The early identification of all significant functional interactions and the ways in which the functional elements may be aggregated so as to group strongly interacting elements together and make the interactions among the groups as simple as possible. Such organizations (architectures) are referred to as "modular" and are the key to systems designs that are readily maintainable and capable of being upgraded to extend their useful life.

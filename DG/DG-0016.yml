@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Engine Operating Temperature
+level: 1.16
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Engine operating temperature is around 90 degrees celsius (194 degrees Fahrenheit).

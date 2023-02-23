@@ -1,0 +1,13 @@
+active: true
+derived: false
+header: |
+  NASA Handbook Version 2
+level: 1.2
+links:
+- DG-0047: L1VKLAuQCNe0GGIzFUNsvggk-V7OdSx8i64-qUVipbY=
+- DG-0049: gKvAImRw10ACdaMaXV_FPU1hMiUIVhA8KzUMXHPnGX4=
+normative: true
+ref: ''
+reviewed: null
+text: |
+  REF: NASA System Engineering Handbook V2

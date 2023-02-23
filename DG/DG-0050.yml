@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Systems Engineering and Decision-Marker Support
+level: '1.50'
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The systems engineer should always keep in mind the information that needs to be available to help the decision-makers choose the most cost-effective option.

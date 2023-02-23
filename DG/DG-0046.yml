@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Identify System Threats Early to Assess Countermeasures
+level: 1.46
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  System threats need to be identified early to design countermeasures into the system.

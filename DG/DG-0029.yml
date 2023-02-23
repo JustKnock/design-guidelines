@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Metal Material Properties, Distinct Endurance Limit
+level: 1.29
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  At high temperatures metals lose distinct endurance limit.

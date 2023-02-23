@@ -1,0 +1,12 @@
+active: true
+derived: false
+header: |
+  Context Diagram, Role of the User
+level: 1.43
+links:
+- DG-0042: N4ujGwrlGHn2Ty6m-B8rGjrV-td4KvEYAYPQ9nLlDmU=
+normative: true
+ref: ''
+reviewed: null
+text: |
+  In a majority of cases, the user or operator should be considered external to the system. The system developer and owner rarely have sufficient control over operators to justify their inclusion in the system.

@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Thread Strength and Distribution of Force
+level: 1.28
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  It appears that one could theoretically increase the thread strength by increasing the length of engagement. However, the first thread will be taking the majority of the applied load. For carbon steel fasteners (including tapped holes) the length of engagement would be limited to approximately one nominal diameter (approximately 1 1/2 times the diameter for aluminum). After that, there is no appreciable increase in strength. Once the applied load has exceeded the first thread’s capacity, it will fail and subsequently cause the remaining threads to fail in succession.

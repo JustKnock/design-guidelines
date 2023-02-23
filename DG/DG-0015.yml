@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Torque Wrench, Elongation, and Preload
+level: 1.15
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Do not rely too much on a torque wrench, it is not a good indicator of preload-- whenever possible, elongation should be used

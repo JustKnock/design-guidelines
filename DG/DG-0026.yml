@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Bearing design and tolerances
+level: 1.26
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Generally better to have only one bearing carry the axial load to allow greater tolerances on shaft length dimensions and to prevent binding if the shaft expands due to temperature changes.

@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Risk Abatement, Courses of Action
+level: 1.53
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  If the component risk appears substantial, the risk to the overall project must be reduced (risk abatement) be either initiating an intensive component development effort, by providing a backup using a proven but somewhat less capable component, by modifying the overall technical approach to eliminate the need for the particular component that is in doubt, or, if these fail, by relaxing the relatid system performance specification.

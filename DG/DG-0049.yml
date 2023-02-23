@@ -1,0 +1,18 @@
+active: true
+derived: false
+header: |
+  Systems Engineering, General Dilemma
+level: 1.49
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The systems engineer's dilemma:
+  At each cost-effective solution:
+  To reduce cost at constant risk, performance must be reduced.
+  To reduce risk at constant cost, performance must be reduced.
+  To reduce cost at constant performance, higher risks must be accepted.
+  To reduce risk at constant performance, higher costs must be accepted.
+
+  In this context, time in the schedule is often a critical resource so that schedule behaves like a kind of cost.

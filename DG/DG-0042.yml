@@ -1,0 +1,12 @@
+active: true
+derived: false
+header: |
+  Span of Control, Mistakes and Systems Engineering
+level: 1.42
+links:
+- REF-0001: CX9LWtS6sPCSJAgi628XDfYJuNDsFjqyQxTp6WrktiE=
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Systems engineers have made mistakes by defining entities as part of the system where in fact the span of control was indeed small. And typically, either during development or operations, the entity was not available to perform its assigned functions or tasks.

@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Driving, Lane Change Frequency
+level: 1.18
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Experience has shown that a lane change has a driving frequency of approximately 0.5 Hz

@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Modulus of elasticity of steels
+level: 1.31
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Modulus of elasticity of steels: E = 30 Mpsi and 207 GPa.

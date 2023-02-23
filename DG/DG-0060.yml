@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Acquistion of Data, SOPs for Analyzing Data, Planning
+level: '1.60'
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The aquisitiion of data itself is not enough; it is necessary to have in hand procedures for analyzing the data. These are often complicated and require sophisticated analytical techniques, which must be planned in advance.

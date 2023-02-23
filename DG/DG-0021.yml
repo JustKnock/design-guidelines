@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Stress Concentration Factors and Key Design
+level: 1.21
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  For fillets, r/d=0.02 with K_t=2.14 bending and K_ts= 2.62 for shear without key in place or K_ts=3.0 for torsion with key in place.

@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Critical Speeds
+level: 1.14
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Designers seek first critical speeds at least twice the operating speed.

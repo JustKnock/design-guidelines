@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Fillet and Butt Weld, General Use
+level: 1.22
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  For general machine elements, most welds are fillet welds although butt welds are used a good deal in pressure vessels

@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Brake Shoe Design
+level: 1.24
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  For long shoe drum brakes, Pmax is offset 90 degrees from Theta1

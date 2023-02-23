@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Critical System Characteristics and Vulnerability Testing
+level: 1.55
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  All critical system characteristics need to be stressed beyond their specified limits to uncover incipient weak spots

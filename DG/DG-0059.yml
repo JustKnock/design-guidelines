@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Computational Models, Functional Behavior
+level: 1.59
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  If the unknowns are largely in the functional behavior of the element, then a computational model or a simulation is indicated. If ont the other hand, the unknowns are concerned with the material aspects, an experimental model is required.

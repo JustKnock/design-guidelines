@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Deflection and Material Strength
+level: '1.30'
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Deflection is not affected by strength.

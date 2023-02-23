@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Factor of Safety (FoS) on Setscrews
+level: 1.25
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  For setscrews, typical factors of safety are 1.5 and 2 for static loads and 4 to 8 for dynamic loads

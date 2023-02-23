@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Deflection of a shaft and critical locations
+level: 1.11
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The deflection of a shaft should be checked at gears and bearings.

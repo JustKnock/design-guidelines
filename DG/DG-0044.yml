@@ -1,0 +1,12 @@
+active: true
+derived: false
+header: |
+  Human-Machine Interface, Control and Performance
+level: 1.44
+links:
+- REF-0001: CX9LWtS6sPCSJAgi628XDfYJuNDsFjqyQxTp6WrktiE=
+normative: true
+ref: ''
+reviewed: null
+text: |
+  The interface between the operator and the system (human-machine interface) is one of the most critical of all because of the intimate relationship between the control exercised by the operator and the performance of the system. It is also one of the most complex to define and test.
