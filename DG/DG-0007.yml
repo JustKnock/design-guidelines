@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Vehicle Dynamics, Lateral Force Coefficient, and Center of Gravity
+level: 1.6
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Center of action for lateral force coefficients from the front and rear tires. For stable operation at all speeds, lateral force coefficient center must be behind the center of gravity (CoG).

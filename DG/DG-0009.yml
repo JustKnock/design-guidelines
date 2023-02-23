@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Conflicting requirements for good bearing material
+level: 1.8
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Conflicting set of requirements for a good bearing material: 1) The material should have a satisfactory compressive and fatigue strength. 2) The material should be soft, with a low modulus of elasticity and a low melting point.

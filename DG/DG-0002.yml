@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Column Failure
+level: 1.2
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  A column failure is always sudden, total, unexpected and hence dangerous.

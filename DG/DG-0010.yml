@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Critical Locations with Shaft Design
+level: 1.9
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Critical locations will usually be on the outer surface at axial locations where the bending moment is large, where the torque is present, and where stress concentrations exist.

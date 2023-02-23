@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Coefficient of friction on thread of bolt
+level: 1.7
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Coefficient of friction depends on surface smoothness, accuracy and degree of lubrication. On average f=.15 and K = .20 no matter bolt size or thread type.

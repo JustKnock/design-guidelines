@@ -1,0 +1,11 @@
+active: true
+derived: false
+header: |
+  Anti-friction Ball bearings and shock.
+level: 1.4
+links: []
+normative: true
+ref: ''
+reviewed: null
+text: |
+  Anti-friction ball bearings don't support shock very well. Performance is greatly reduced by the shock.
